@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Editor directories
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Temp files
+tmp/
+.temp/
+
+# Data files (specific to this project's initial context)
+finance-news-today.txt
